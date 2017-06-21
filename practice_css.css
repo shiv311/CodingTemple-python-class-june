@@ -1,0 +1,30 @@
+.paragraph a:visited {
+  color: red;
+}
+
+.paragraph {
+  font-size: 2em;
+}
+
+span.hover:hover {
+  background-color: black;
+}
+
+.colors {
+  height: 300px;
+  width: 50%;
+  background-color: black;
+  display: block;
+  margin: 0 auto;
+}
+
+.inline-block-test{
+  display:inline-block;
+  width: 300px;
+}
+
+.inline-block-test-float{
+  float:right;
+  display:inline-block;
+  width: 450px;
+}
